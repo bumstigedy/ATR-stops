@@ -20,6 +20,13 @@ __pycache__/
 # C extensions
 *.so
 
+# directories
+bin/
+lib64/
+*.csv
+*.json
+*.cfg
+
 # Distribution / packaging
 .Python
 build/
